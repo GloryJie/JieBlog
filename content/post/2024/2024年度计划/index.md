@@ -10,8 +10,10 @@ math:
 license:
 hidden: false
 draft: false
-categories: ["年度计划"]
-tags: ["计划"]
+categories: 
+    - 规划
+tags: 
+    - 2024计划
 
 ---
 
