@@ -10,8 +10,10 @@ math:
 license:
 hidden: false
 draft: false
-categories: ["GIS"]
-tags: [""]
+categories: 
+    - 空间计算
+tags: 
+    - 射线法
 
 ---
 

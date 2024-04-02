@@ -4,14 +4,17 @@ title: "Resilience4j-整合Springboot"
 slug: "Resilience4j-整合Springboot"
 description:
 date: "2024-02-02T11:18:46+08:00"
-lastmod: "2024-02-02T11:18:46+08:00"
+lastmod: "2024-04-02T11:18:46+08:00"
 image: cover.jpg
 math:
 license:
 hidden: false
 draft: false
-categories: ["微服务"]
-tags: ["Resilience4j"]
+categories: 
+    - 微服务
+tags: 
+    - Resilience4j
+    - 熔断限流
 
 ---
 
